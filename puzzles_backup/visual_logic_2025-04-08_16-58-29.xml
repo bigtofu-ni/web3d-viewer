@@ -1,0 +1,104 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <tab name="Init" type="InitTab" active="false" scrollx="13" scrolly="0" scale="0.9"></tab>
+  <tab name="New Tab" type="CommonTab" active="true" scrollx="61.00000000000057" scrolly="171.199951171875" scale="0.9">
+    <block xmlns="https://developers.google.com/blockly/xml" type="addAnnotation" id="~nxeRKcSZ9}[q}J{2`.w" x="70" y="250">
+      <mutation xmlns="http://www.w3.org/1999/xhtml" usenameslot="false"></mutation>
+      <value name="ANNOTATION">
+        <shadow type="text" id="C35v1P(lp@sRosj`Qt[s">
+          <field name="TEXT">1</field>
+        </shadow>
+      </value>
+      <value name="TARGET">
+        <shadow type="objectList" id="PkK-g3H2joP+5Ye%BzI]">
+          <field name="FIELDNAME">laser</field>
+        </shadow>
+      </value>
+      <value name="CONTENTS">
+        <shadow type="text" id="g_IIq//8SU{Wx+zCKfNf">
+          <field name="TEXT">Laser Welding Structural Reinforcement </field>
+        </shadow>
+      </value>
+      <value name="ID">
+        <shadow type="text" id="P)GI@au}_JrSfdD@d4~~">
+          <field name="TEXT">laser</field>
+        </shadow>
+      </value>
+      <next>
+        <block type="addAnnotation" id=",JR(7m5%-[`,-wgmw^;^">
+          <mutation xmlns="http://www.w3.org/1999/xhtml" usenameslot="false"></mutation>
+          <value name="ANNOTATION">
+            <shadow type="text" id="+o[ctM[8?|JP!J7FI0;/">
+              <field name="TEXT">2</field>
+            </shadow>
+          </value>
+          <value name="TARGET">
+            <shadow type="objectList" id="zhjg)qS]=Le}Ha1HXM*s">
+              <field name="FIELDNAME">steel</field>
+            </shadow>
+          </value>
+          <value name="CONTENTS">
+            <shadow type="text" id="7?.iay;jT`v^X!}^zbx;">
+              <field name="TEXT">Made from 2mm HCT980X Steel</field>
+            </shadow>
+          </value>
+          <value name="ID">
+            <shadow type="text" id=")eu}U[%9;tS#KB7}aBlx">
+              <field name="TEXT">steel</field>
+            </shadow>
+          </value>
+          <next>
+            <block type="addAnnotation" id="=G6qWQM5}Ruv?*Gg5%8W">
+              <mutation xmlns="http://www.w3.org/1999/xhtml" usenameslot="false"></mutation>
+              <value name="ANNOTATION">
+                <shadow type="text" id="4IAxGzvr5]WqlHjpfDA7">
+                  <field name="TEXT">3</field>
+                </shadow>
+              </value>
+              <value name="TARGET">
+                <shadow type="objectList" id="HNb@=cid]Uxr+(k{!Qtl">
+                  <field name="FIELDNAME">protection</field>
+                </shadow>
+              </value>
+              <value name="CONTENTS">
+                <shadow type="text" id="G%l!-bD([hD1;2zT/`m}">
+                  <field name="TEXT">Made from 2mm HCT980X Steel</field>
+                </shadow>
+              </value>
+              <value name="ID">
+                <shadow type="text" id="07^,}PscTv6@A3~=.Ucu">
+                  <field name="TEXT">proteciton</field>
+                </shadow>
+              </value>
+              <next>
+                <block type="addAnnotation" id="X?d8L2JrZ(LH4z7M7.Uk">
+                  <mutation xmlns="http://www.w3.org/1999/xhtml" usenameslot="false"></mutation>
+                  <value name="ANNOTATION">
+                    <shadow type="text" id="Qpd^64:8^sT;J@5.-Exi">
+                      <field name="TEXT">4</field>
+                    </shadow>
+                  </value>
+                  <value name="TARGET">
+                    <shadow type="objectList" id="=[noYb:|s]x_E}#pwGYg">
+                      <field name="FIELDNAME">cover</field>
+                    </shadow>
+                  </value>
+                  <value name="CONTENTS">
+                    <shadow type="text" id="tdu-CCCkeR=_;daY{si~">
+                      <field name="TEXT">Made from 2mm HCT980X Steel</field>
+                    </shadow>
+                  </value>
+                  <value name="ID">
+                    <shadow type="text" id="+,_X/|X7plljY,j4uUnp">
+                      <field name="TEXT">cover</field>
+                    </shadow>
+                  </value>
+                </block>
+              </next>
+            </block>
+          </next>
+        </block>
+      </next>
+    </block>
+  </tab>
+  <editorsettings viewport-x="1210.8" viewport-y="37" viewport-w="819.2" viewport-h="491.5" viewport-hidden="false" toolbox-library-mode="false" toolbox-minimized-mode="false"></editorsettings>
+</xml>
